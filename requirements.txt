@@ -1,0 +1,5 @@
+djitellopy == 2.4.0
+droneblocks-python-utils == 0.2.2
+scipy == 1.7.3
+opencv-contrib-python == 4.5.5.62
+opencv-python == 4.5.5.62
